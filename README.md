@@ -20,5 +20,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiax5&layout=compact&theme=dark)
 
 ---
-
-> 🚀 **"Learning something new every day!"**
